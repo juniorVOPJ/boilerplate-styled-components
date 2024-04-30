@@ -19,12 +19,18 @@ Este projeto está equipado com as seguintes tecnologias:
 
 ## Comece aqui (Start here)
 
-Primeiro, clone o repositório, e execute o servidor de desenvolvimento:
+Se você quiser alterar o projeto, clone o repositório, e execute o servidor de desenvolvimento:
 
 ```bash
 npm run dev
 # ou
 yarn dev
+```
+
+Se desejar iniciar um projeto NextJS a partir do boilerplate:
+
+```bash
+npx create-next-app --example https://github.com/juniorVOPJ/boilerplate-styled-components
 ```
 
 Abra [http://localhost:3000](http://localhost:3000) em seu navegador para ver o resultado.

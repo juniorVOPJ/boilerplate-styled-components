@@ -8,7 +8,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-    title: 'Super Boilerplate JSC 1.0',
+    title: 'Boilerplate Styled Components',
     description: 'NextJS, TypeScript, Styled Components e Storybook'
 }
 

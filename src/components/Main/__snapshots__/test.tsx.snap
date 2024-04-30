@@ -44,7 +44,7 @@ exports[`<Main /> should render the heading 1`] = `
   <h1
     class="c2"
   >
-    Super Boilerplate JSC 1.0
+    Boilerplate Styled Components
   </h1>
   <h2
     class="c3"

@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render the heading 1`] = `
+.c0 {
+  background-color: #06092b;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  padding: 3rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.c1 {
+  width: 25rem;
+  margin-bottom: 2rem;
+}
+
+.c2 {
+  font-size: 2.5rem;
+}
+
+.c3 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.c4 {
+  margin-top: 3rem;
+  width: min(30rem, 100%);
+}
+
+<main
+  class="c0"
+>
+  <img
+    alt="Imagens de logotipos das tecnologias utilizadas no projeto."
+    class="c1"
+    src="/images/tech_logos.png"
+  />
+  <h1
+    class="c2"
+  >
+    Super Boilerplate JSC 1.0
+  </h1>
+  <h2
+    class="c3"
+  >
+    NextJS, TypeScript, Styled Components e Storybook
+  </h2>
+  <img
+    alt="Um desenvolvedor de frente para uma tela com código."
+    class="c4"
+    src="/images/hero-illustration.svg"
+  />
+</main>
+`;
